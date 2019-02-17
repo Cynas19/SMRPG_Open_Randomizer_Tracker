@@ -5,10 +5,15 @@ SMRPG Randomizer Tracker 1.0 by Cynas Release Notes!
 Thank Yous
 
 First and foremost, thanks to the following people; without their help, this project would never have gotten off the ground:
+
 -Emosaru (core, troubleshooting, release)
+
 -Beenieweenie (troubleshooting, idea exchange)
+
 -JRJathome (troubleshooting)
+
 -Natalie (troubleshooting)
+
 -Fouton (inspirational design, code layout)
 
 What's in the Package
@@ -24,17 +29,23 @@ The install comes with several layout options (you can change them easily by cli
 Other Features and Future Plans
 
 Variable Sprites for Icons
+
 Lots of work went into creating icons that are memorable and interesting, and even the fonts are ripped from the game for a very authentic look.  So much so that Yardovich broke the tracker once.  Refights have different sprites to keep things interesting, and make your stream look awesome, just like the randomizer you're playing!
 
 Full Chathud Support
+
 The command list for ChatHUD is ever growing for this pack.  If you need help activating ChatHUD for your new tracker, send me a DM, or parse the discord for Emosaru's release notes to enable ChatHUD (I can also tell you how to add custom commands for each icon on the tracker).  Below is a link to the pastebin that has a full list of working commands for each icon on the tracker.
 
 https://pastebin.com/AhjkyvKQ
 
 Layout Update
+
 The layout is just okay.  I have a couple more ideas I'd like to implement when I get more time:
+
 -Changing the star layout to be more like games star pieces screen.  I'd like to have an alternative layout that instead of organizing bosses in chronological order, has them grouped (e.g. jagger, jinx1, jinx2, and jinx3 all in the same row).
+
 -Multiple grids of different sizes.  There's a few blank spaces that I can eliminate that is easy to do on paper, but difficult for me to execute in code.
+
 -Additional parameter tracking.  I'd like to add icons that allow you to track the number of FP and treasure chests checked.
 
 Thank you for considering my (first) tracker.  I'm open to feedback and ideas for improvements!
